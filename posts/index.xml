@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Borislav Kosharov</title>
-    <link>https://nikibobi.github.io/</link>
-    <description>Recent content on Borislav Kosharov</description>
+    <title>Posts on Borislav Kosharov</title>
+    <link>https://nikibobi.github.io/posts/</link>
+    <description>Recent content in Posts on Borislav Kosharov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Feb 2019 21:36:18 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 20:56:16 +0200</lastBuildDate>
     
-	<atom:link href="https://nikibobi.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nikibobi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://nikibobi.github.io/about/</link>
-      <pubDate>Sat, 02 Feb 2019 21:36:18 +0200</pubDate>
-      
-      <guid>https://nikibobi.github.io/about/</guid>
-      <description>I am a .NET developer with interests in web development, gamedev, embeded programming and container applications.</description>
-    </item>
     
     <item>
       <title>Markdown test</title>
