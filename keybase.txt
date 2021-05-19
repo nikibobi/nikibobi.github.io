@@ -1,0 +1,54 @@
+https://keybase.io/bosak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kosharov.ml
+  * I am bosak (https://keybase.io/bosak) on keybase.
+  * I have a public key ASBoJf3OjAv6Lfc0w9w449ov_9f_6UN1hSMlpILiUYpKxAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206825fdce8c0bfa2df734c3dc38e3da2fffd7ffe94375852325a482e2518a4ac40a",
+      "host": "keybase.io",
+      "kid": "01206825fdce8c0bfa2df734c3dc38e3da2fffd7ffe94375852325a482e2518a4ac40a",
+      "uid": "d43b7ec3646edf319e7f7385d91cee19",
+      "username": "bosak"
+    },
+    "merkle_root": {
+      "ctime": 1621418358,
+      "hash": "a2110f6040b7b23231c90028716755d58f1987528ab4657d4c51fa7618e19ca4bbdbc799ebb77a6d515e9420634491b19dcf0a0b06f71f8e0f5ce0f0f3aafc13",
+      "hash_meta": "1f7a44221dbb0c904c511ecc9460bd19059cae005fbc35eabecd5947fb70cf23",
+      "seqno": 19986365
+    },
+    "service": {
+      "entropy": "Ens22o+2J/6K+xstczbVxqHc",
+      "hostname": "kosharov.ml",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1621418371,
+  "expire_in": 504576000,
+  "prev": "e322c80c544ef476005b359c150070be67ad8562ab8aaf6b969b048cfa88fb34",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgaCX9zowL+i33NMPcOOPaL//X/+lDdYUjJaSC4lGKSsQKp3BheWxvYWTESpcCC8Qg4yLIDFRO9HYAWzWcFQBwvmethWKriq9rlpsEjPqI+zTEIOYdSAdbBJ8xwz4ayVrL5ygp8JKK0MjpBpqEWsIh97EEAgHCo3NpZ
+8RAGhQ7kHWd7FgfjOnwbyLWBY11lyRgVS/2acLkeSpqowA49r5jELEr3CBlp90etUgCDGSGbjYOuwNx/X3TsKkTCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIImcCsBNlIrupCKtJ8XpVj6N5QvweDaYs1jj5uxjq042o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bosak
